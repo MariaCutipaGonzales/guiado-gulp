@@ -1,0 +1,32 @@
+{
+  "name": "guiado-gulp",
+  "version": "1.0.0",
+  "description": "Ejercicio  guiado de gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaCutipaGonzales/guiado-gulp.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Ejercicio",
+    "JS"
+  ],
+  "author": "Maria Grecia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaCutipaGonzales/guiado-gulp/issues"
+  },
+  "homepage": "https://github.com/MariaCutipaGonzales/guiado-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
